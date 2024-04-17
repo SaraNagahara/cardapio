@@ -1,0 +1,90 @@
+body {
+    background-image: url(https://st.depositphotos.com/1010596/1370/v/450/depositphotos_13707426-stock-illustration-seamless-coffee.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.menu{
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+h1{
+    font-family: Impact, serif;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.side p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.item{
+    text-align: left;
+    width: 70%;
+}
+
+.price{
+    text-align: right;
+    width: 30%;
+}
+
+.testing{
+    text-align: center;
+    font-family: Impact;
+}
+
+footer{
+    text-align: center;
+
+}
+
+hr{
+    height: 3px;
+    margin-bottom: 4px;
+    background-color: rgb(165, 122, 42);
+    border-color: rgb(138, 78, 38);
+}
+
+h2{
+    font-family: Impact, serif;
+    font-size: 30px;
+}
+
+h1, h2, p {
+    text-align: center;
+  }
+
+
+  img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+    display: block;
+  }
+
+
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  
